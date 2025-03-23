@@ -1,0 +1,5 @@
+IRCTC_USERNAME=
+IRCTC_PASSWORD=
+# Browser settings
+# Set to 'true' to run in headless mode by default
+HEADLESS=false 
